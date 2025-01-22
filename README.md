@@ -1,2 +1,2 @@
 # Exerc
-Nessa atividade do curso Técnico em informát
+Nessa atividade do curso Técnico em informá
