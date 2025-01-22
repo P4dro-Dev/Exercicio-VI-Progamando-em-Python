@@ -4,4 +4,4 @@
 
 ## ⌛| Tempo Conclusão do Desafio
 
-   O tempo que levei para conclusão da atividade, foi
+   O tempo que levei para conclusão da atividade, foi 
