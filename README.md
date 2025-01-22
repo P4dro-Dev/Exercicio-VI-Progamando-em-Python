@@ -1,3 +1,3 @@
 ## 📄| Tarefa de Programação com Python
  
-   Esse f ativ
+   Esse fo ativ
