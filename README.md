@@ -1,2 +1,2 @@
 # Exerc-cio-VI
-Nessa atividade do curso Técnico em informática, da dis
+Nessa atividade do curso Técnico em informática, da di
