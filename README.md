@@ -1,2 +1,2 @@
 
-Nessa atividade do curso
+Nessa atividade do curs
