@@ -1,3 +1,3 @@
 ## 📄| Tarefa de Programação com Python
  
-   Essa foi uma atividade do curso Técni
+   Essa foi uma atividade do curso Técnic
