@@ -1,2 +1,2 @@
 
-Nessa atividade do curso Técnico em inf
+Nessa atividade do curso Técnico em in
