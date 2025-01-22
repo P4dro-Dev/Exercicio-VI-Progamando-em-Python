@@ -1,2 +1,2 @@
 
-Nessa atividade do curso Técni
+Nessa atividade do curso Técn
