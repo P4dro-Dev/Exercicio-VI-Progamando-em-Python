@@ -1,2 +1,2 @@
 # Exerc-cio-VI-Programa-
-Nessa atividade do curso Técnico em informática, da discip
+Nessa atividade do curso Técnico em informática, da disci
