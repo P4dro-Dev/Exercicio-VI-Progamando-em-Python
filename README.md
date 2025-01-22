@@ -1,2 +1,2 @@
 # 
-Nessa atividade do curso Técnico em infor
+Nessa atividade do curso Técnico em info
