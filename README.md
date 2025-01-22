@@ -1,3 +1,3 @@
 ## 📄| Tarefa de Programação com Python
  
-   Essa foi uma ativida
+   Essa foi uma atividade
