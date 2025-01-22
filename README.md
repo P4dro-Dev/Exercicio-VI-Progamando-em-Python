@@ -4,4 +4,4 @@
 
 ## ⌛| Tempo Conclusão do Desafio
 
-   O tempo que levei para
+   O tempo que levei para 
