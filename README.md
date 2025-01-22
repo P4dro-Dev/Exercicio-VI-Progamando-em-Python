@@ -1,2 +1,2 @@
 # Exerc-cio-VI-Programa-o-Py
-Nessa atividade do curso Técnico em informática, da disciplina de Prograação, realize
+Nessa atividade do curso Técnico em informática, da disciplina de Prograação, realiz
