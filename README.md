@@ -4,4 +4,4 @@
 
 ## ⌛| Tempo Conclusão do Desafio
 
-   O tempo que levei para conclusão da atividade, foi de aproximadamente, 1 hora
+   O tempo que levei para conclusão da atividade, foi de aproximadamente, 1 hora,
