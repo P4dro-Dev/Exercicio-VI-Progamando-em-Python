@@ -4,4 +4,4 @@
 
 ## ⌛| Tempo Conclusão do Desafio
 
-   O te
+   O tem
