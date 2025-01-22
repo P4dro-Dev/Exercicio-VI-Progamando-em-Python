@@ -1,2 +1,2 @@
 
-Nessa atividade do curso Técnico 
+Nessa atividade do curso Técnico
