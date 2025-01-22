@@ -1,2 +1,2 @@
-# Exerc-c
+# Exerc-
 Nessa atividade do curso Técnico em informáti
