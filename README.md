@@ -4,4 +4,4 @@
 
 ## ⌛| Tempo Conclusão do Desafio
 
-   O tempo que levei para conclusão ativi
+   O tempo que levei para conclusão ativida
