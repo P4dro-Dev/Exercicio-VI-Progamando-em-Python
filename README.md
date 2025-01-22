@@ -1,2 +1,2 @@
 
-Nessa atividade do cur
+Nessa atividade do cu
