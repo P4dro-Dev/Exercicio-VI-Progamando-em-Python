@@ -4,4 +4,4 @@
 
 ## ⌛| Tempo Conclusão do Desafio
 
-   O tempo que 
+   O tempo que le
