@@ -10,4 +10,4 @@
 
  Linkedin: https://www.linkedin.com/in/-dev-suporte-profissional-ti-pedro-b2680a302/
 
- E-mail: he
+ E-mail: her
