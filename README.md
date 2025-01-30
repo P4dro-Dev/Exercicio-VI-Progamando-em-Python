@@ -8,6 +8,6 @@
    
 ## 📱| Contato
 
- | Linkedin: https://www.linkedin.com/in/-dev-suporte-profissional-ti-pedro-b2680a302/
+ 🌐| Linkedin: https://www.linkedin.com/in/-dev-suporte-profissional-ti-pedro-b2680a302/
 
  | E-mail: herique.sousa@aluno.ifce.edu.br
