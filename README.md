@@ -8,4 +8,4 @@
    
 ## 📱| Contato
 
- Linkedi
+ Linkedin
