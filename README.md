@@ -16,7 +16,7 @@
 - **Questão-II.py**: Descrição breve do que o script faz.
 - **Questão-III.py**: Descrição breve do que o script faz.
 - **Questão-IV.py**: Descrição breve do que o script faz.
-- **Questão-V.py**: Descriço breve do que oscip fa
+- **Questão-V.py**: Descriço breve do que oscip f
 - *Questão-VI.py*
 - Questão-VII.py
 - Questão-VIII.py
