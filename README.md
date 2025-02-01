@@ -15,7 +15,7 @@
 - **Questão-I.py**: Descrição breve do que o script faz.
 - **Questão-II.py**: Descrição breve do que o script faz.
 - **Questão-III.py**: Descrição breve do que o script faz.
-- **Questão-IV.py**: Descrição breve do que o script f
+- **Questão-IV.py**: Descrição breve do que o script 
 - **Questão-V.py**: Descriço bre
 - *Questão-VI.py
 - Questão-VII.py
