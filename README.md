@@ -21,7 +21,19 @@
  
 ## 📋| 
 
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/P4dro-Dev/Exercicio-VI-Progamando-em-Python.git
+Navegue até o diretório do projeto:
 
+bash
+cd Exercicio-VI-Progamando-em-Python/Exercício-VI-de-Programação-Python
+Execute o script desejado:
+
+bash
+python Questão-I.py
+Requisitos
+Python 3.x
    
 ## 📱| Contato
 
