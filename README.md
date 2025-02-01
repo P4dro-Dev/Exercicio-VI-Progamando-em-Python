@@ -19,7 +19,7 @@
 - **Questão-V.py**: Descrição breve do que o script faz.
 - **Questão-VI.py**: Descrição breve do que o script faz.
 - **Questão-VII.py**: Descrição brevedo que script faz.
-- **Questão-VIII.py**: D
+- **Questão-VIII.py**: 
 
 ```
  
