@@ -14,4 +14,4 @@
 
  🌐| Linkedin: https://www.linkedin.com/in/-dev-suporte-profissional-ti-pedro-b2680a302/
 
- 📩| E-mail: herique.sousa6@aluno.ifce.edu.br
+ 📩| E-mail: herique.sousa62@aluno.ifce.edu.br
