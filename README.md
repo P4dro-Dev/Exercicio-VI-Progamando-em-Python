@@ -12,7 +12,7 @@
 
 ```
 
-- **Questão-I.py**: Descrição breve do que o script fa
+- **Questão-I.py**: Descrição breve do que o script f
 - **Questão-II.py**: 
 - **Questão-III.py
 - Questão-IV.py
