@@ -12,7 +12,7 @@
 
 ```
 
-- **Questão-I.py**: Descrição breve do que o scri
+- **Questão-I.py**: Descrição breve do que o scr
 - **Questão-II.py**
 - **Questão-III.py
 - Questão-IV.py
