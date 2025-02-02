@@ -11,7 +11,7 @@
 ## Estrutura do Projeto
 
 ```
--Questão-I.py**: Descrição brev
+-Questão-I.py**: Descrição bre
 - Questão-II.py
 - Questão-III.py
 - Questão-IV.py
