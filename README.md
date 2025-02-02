@@ -14,7 +14,7 @@
 
 - **Questão-I.py**: Descrição breve do que o sc
 - **Questão-II.py**
-- **Questão-III.py
+- **Questão-III.p
 - Questão-IV.py
 - Questão-VI.py
 - Questão-VII.py
