@@ -11,7 +11,7 @@
 ## Estrutura do Projeto
 
 ```
--Questão-I.py**: De
+-Questão-I.py**: D
 - Questão-II.py
 - Questão-III.py
 - Questão-IV.py
