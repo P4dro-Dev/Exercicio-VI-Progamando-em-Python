@@ -11,7 +11,7 @@
 ## Estrutura do Projeto
 
 ```
--Questão-I.py**: Descrição breve do qu
+-Questão-I.py**: Descrição breve do q
 - Questão-II.py
 - Questão-III.py
 - Questão-IV.py
