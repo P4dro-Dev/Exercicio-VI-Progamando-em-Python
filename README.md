@@ -30,6 +30,7 @@
    
 Navegue até o diretório do projeto:
 
+
 bash
 cd Exercicio-VI-Progamando-em-Python/Exercício-VI-de-Programação-Python
 Execute o script desejado:
