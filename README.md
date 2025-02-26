@@ -22,7 +22,7 @@
 
 ```
 
-## 📋| Organ
+## 📋| Orga
 
 1. Clone este repositório:
    ```bash
