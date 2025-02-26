@@ -22,7 +22,7 @@
 
 ```
 
-## 📋| Com
+## 📋| Como
 
 
 1. Clone este repositório:
