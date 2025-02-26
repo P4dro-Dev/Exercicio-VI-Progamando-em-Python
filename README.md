@@ -22,7 +22,7 @@
 
 ```
 
-## 📋| Or
+## 📋| O
 
 
 1. Clone este repositório:
