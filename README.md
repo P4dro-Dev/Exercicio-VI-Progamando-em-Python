@@ -24,6 +24,7 @@
 
 ## 📋| Or
 
+
 1. Clone este repositório:
    ```bash
    git clone https://github.com/P4dro-Dev/Exercicio-VI-Progamando-em-Python.git
