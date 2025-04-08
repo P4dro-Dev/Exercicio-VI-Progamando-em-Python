@@ -46,3 +46,4 @@ Python 3.x
  🌐| Linkedin: https://www.linkedin.com/in/-dev-suporte-profissional-ti-pedro-b2680a302/
 
  📩| E-mail: herique.sousa62@aluno.ifce.edu.br
+
