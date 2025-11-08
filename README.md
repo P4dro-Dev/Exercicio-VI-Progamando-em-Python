@@ -5,7 +5,7 @@
 ## ⌛| Tempo Conclusão do Desafio 
 
    O tempo que levei para conclusão da  atividade, foi de aproximadamente, 1 hora, e 5 minutos.           
-            
+             
 ## 🗂️| Estrutura do Projeto           
               
 ## Estrutura do Projeto                
